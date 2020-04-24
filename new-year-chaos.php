@@ -1,5 +1,4 @@
-'''PHP
-<?php
+```PHP
 
 // Complete the minimumBribes function below.
 function minimumBribes($q) {
@@ -56,4 +55,4 @@ for ($t_itr = 0; $t_itr < $t; $t_itr++) {
 fclose($stdin);
 
 
-'''
+```
